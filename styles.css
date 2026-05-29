@@ -18,6 +18,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px 8%;
+  color:white;
   background: url('rha.jpg');
   background-size:cover;
   object-fit:cover;
@@ -36,7 +37,7 @@ header {
 nav a {
   text-decoration: none;
   margin: 0 10px;
-  color: red;
+  color: white;
   font-weight: 500;
 }
 
